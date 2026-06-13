@@ -35,15 +35,7 @@ public class Anand {
 
 ## ⚙️ Tech Arsenal
 
-### 🧩 Languages
-<p>
-<img src="https://img.shields.io/badge/Java-black?style=for-the-badge&logo=openjdk"/>
-<img src="https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript"/>
-<img src="https://img.shields.io/badge/C%2B%2B-black?style=for-the-badge&logo=cplusplus"/>
-<img src="https://img.shields.io/badge/HTML5-black?style=for-the-badge&logo=html5"/>
-<img src="https://img.shields.io/badge/CSS3-black?style=for-the-badge&logo=css3"/>
-<img src="https://img.shields.io/badge/SQL-black?style=for-the-badge&logo=postgresql"/>
-</p>
+
 
 ### ⚡ Backend
 <p>
@@ -51,17 +43,17 @@ public class Anand {
 <img src="https://img.shields.io/badge/Spring-black?style=for-the-badge&logo=spring"/>
 <img src="https://img.shields.io/badge/Hibernate-black?style=for-the-badge&logo=hibernate"/>
 <img src="https://img.shields.io/badge/REST_APIs-black?style=for-the-badge&logo=fastapi"/>
-<img src="https://img.shields.io/badge/Node.js-black?style=for-the-badge&logo=nodedotjs"/>
+<img src="https://img.shields.io/badge/Node.js-black?style=for-the-badge&logo=flask"/>
 <img src="https://img.shields.io/badge/Express-black?style=for-the-badge&logo=express"/>
 </p>
 
 ### 🎨 Frontend
 <p>
 <img src="https://img.shields.io/badge/React-black?style=for-the-badge&logo=react"/>
-<img src="https://img.shields.io/badge/Redux-black?style=for-the-badge&logo=redux"/>
+<img src="https://img.shields.io/badge/Redux-black?style=for-the-badge&logo=html"/>
 <img src="https://img.shields.io/badge/TailwindCSS-black?style=for-the-badge&logo=tailwindcss"/>
-<img src="https://img.shields.io/badge/Bootstrap-black?style=for-the-badge&logo=bootstrap"/>
-<img src="https://img.shields.io/badge/Vite-black?style=for-the-badge&logo=vite"/>
+<img src="https://img.shields.io/badge/Bootstrap-black?style=for-the-badge&logo=css"/>
+<img src="https://img.shields.io/badge/Vite-black?style=for-the-badge&logo=javascript"/>
 </p>
 
 ### 🗄️ Databases
