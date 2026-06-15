@@ -4,7 +4,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&pause=1000&color=00FFAB&center=true&vCenter=true&width=500&lines=anand.execute();+%E2%96%88" alt="Typing SVG" />
 
 ```
-software engineer  ·  java + spring boot  ·  system design
+Backend.Linux.System Design
 ```
 
 </div>
