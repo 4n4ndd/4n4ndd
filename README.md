@@ -5,14 +5,11 @@
 <p>  <b>code</b> •  <b>build</b> •  <b>design</b> •  <b>scale</b> </p>
 
 
-software engineer  ·  java + spring boot  ·  system design
+Backend  ·  Linux  ·  System Design 
 
 </div>
 
----
 
-
----
 
 **`/tech-arsenal`**
 
