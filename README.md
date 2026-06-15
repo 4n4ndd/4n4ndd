@@ -1,7 +1,10 @@
 <!-- HEADER -->
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&pause=1000&color=00FFAB&center=true&vCenter=true&width=500&lines=Anand+%E2%96%88" alt="Typing SVG" />
+```html id="uyt8f2"
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=32&pause=2000&color=00FFAB&center=true&vCenter=true&width=300&lines=Anand" alt="Typing SVG" />
+```
+
 <p>  <b>code</b> •  <b>build</b> •  <b>design</b> •  <b>scale</b> </p>
 
 
