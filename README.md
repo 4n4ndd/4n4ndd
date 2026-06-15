@@ -4,7 +4,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&pause=1000&color=00FFAB&center=true&vCenter=true&width=500&lines=anand.execute();+%E2%96%88" alt="Typing SVG" />
 
 ```
-Backend  ·  Linux  ·  System design
+software engineer  ·  java + spring boot  ·  system design
 ```
 
 </div>
@@ -12,9 +12,7 @@ Backend  ·  Linux  ·  System design
 ---
 
 ```java
-String[] stack   = { "Java", "Spring Boot", "React", "PostgreSQL", "Docker", "AWS" };
-String[] shipping = { "Absolute Cinema 🎬", "WorkWave 💼", "Route Optimizer 🚚" };
-String   loop    = "code → build → scale → repeat";
+Hi, I am Anand I am a Software Enginner
 ```
 
 ---
@@ -79,16 +77,6 @@ String   loop    = "code → build → scale → repeat";
 </p>
 
 </div>
-
----
-
-**`/projects`**
-
-`Absolute Cinema` — AI movie recs. No more decision fatigue. Top-5, by genre.
-
-`WorkWave` — Job portal. Clean, fast, modern.
-
-`Route Optimizer` — Delivery routing via DSA. Industry-grade.
 
 ---
 
