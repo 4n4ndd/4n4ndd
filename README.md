@@ -4,7 +4,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&pause=1000&color=00FFAB&center=true&vCenter=true&width=500&lines=anand.execute();+%E2%96%88" alt="Typing SVG" />
 
 ```
-software engineer  ·  java + spring boot  ·  system design
+Backend  ·  Linux  ·  System design
 ```
 
 </div>
@@ -23,49 +23,60 @@ String   loop    = "code → build → scale → repeat";
 
 <div align="center">
 
-**languages**
-
-![Java](https://img.shields.io/badge/Java-0A0A0A?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-0A0A0A?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![SQL](https://img.shields.io/badge/SQL-0A0A0A?style=for-the-badge&logo=mysql&logoColor=4479A1)
-
 **backend**
-
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-0A0A0A?style=for-the-badge&logo=springboot&logoColor=6DB33F)
-![Hibernate](https://img.shields.io/badge/Hibernate-0A0A0A?style=for-the-badge&logo=hibernate&logoColor=59666C)
-![REST API](https://img.shields.io/badge/REST_API-0A0A0A?style=for-the-badge&logo=fastapi&logoColor=009688)
-![Node.js](https://img.shields.io/badge/Node.js-0A0A0A?style=for-the-badge&logo=node.js&logoColor=339933)
-![Express](https://img.shields.io/badge/Express-0A0A0A?style=for-the-badge&logo=express&logoColor=white)
+<p>
+<img src="https://img.shields.io/badge/Spring_Boot-black?style=for-the-badge&logo=springboot"/>
+<img src="https://img.shields.io/badge/Spring-black?style=for-the-badge&logo=spring"/>
+<img src="https://img.shields.io/badge/Hibernate-black?style=for-the-badge&logo=hibernate"/>
+<img src="https://img.shields.io/badge/REST_APIs-black?style=for-the-badge&logo=fastapi"/>
+<img src="https://img.shields.io/badge/Node.js-black?style=for-the-badge&logo=nodedotjs"/>
+<img src="https://img.shields.io/badge/Express-black?style=for-the-badge&logo=express"/>
+</p>
 
 **frontend**
-
-![React](https://img.shields.io/badge/React-0A0A0A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Redux](https://img.shields.io/badge/Redux-0A0A0A?style=for-the-badge&logo=redux&logoColor=764ABC)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-0A0A0A?style=for-the-badge&logo=tailwindcss&logoColor=38BDF8)
-![Vite](https://img.shields.io/badge/Vite-0A0A0A?style=for-the-badge&logo=vite&logoColor=646CFF)
+<p>
+<img src="https://img.shields.io/badge/React-black?style=for-the-badge&logo=react"/>
+<img src="https://img.shields.io/badge/Redux-black?style=for-the-badge&logo=redux"/>
+<img src="https://img.shields.io/badge/TailwindCSS-black?style=for-the-badge&logo=tailwindcss"/>
+<img src="https://img.shields.io/badge/Bootstrap-black?style=for-the-badge&logo=bootstrap"/>
+<img src="https://img.shields.io/badge/Vite-black?style=for-the-badge&logo=vite"/>
+</p>
 
 **databases**
+<p>
+<img src="https://img.shields.io/badge/PostgreSQL-black?style=for-the-badge&logo=postgresql"/>
+<img src="https://img.shields.io/badge/MongoDB-black?style=for-the-badge&logo=mongodb"/>
+<img src="https://img.shields.io/badge/MySQL-black?style=for-the-badge&logo=mysql"/>
+<img src="https://img.shields.io/badge/Redis-black?style=for-the-badge&logo=redis"/>
+</p>
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0A0A0A?style=for-the-badge&logo=postgresql&logoColor=4169E1)
-![MongoDB](https://img.shields.io/badge/MongoDB-0A0A0A?style=for-the-badge&logo=mongodb&logoColor=47A248)
-![MySQL](https://img.shields.io/badge/MySQL-0A0A0A?style=for-the-badge&logo=mysql&logoColor=4479A1)
-![Redis](https://img.shields.io/badge/Redis-0A0A0A?style=for-the-badge&logo=redis&logoColor=DC382D)
+**devops & cloud**
+<p>
+<img src="https://img.shields.io/badge/Docker-black?style=for-the-badge&logo=docker"/>
+<img src="https://img.shields.io/badge/AWS-black?style=for-the-badge&logo=amazonaws"/>
+<img src="https://img.shields.io/badge/Nginx-black?style=for-the-badge&logo=nginx"/>
+<img src="https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux"/>
+</p>
 
-**infrastructure**
-
-![Docker](https://img.shields.io/badge/Docker-0A0A0A?style=for-the-badge&logo=docker&logoColor=2496ED)
-![AWS](https://img.shields.io/badge/AWS-0A0A0A?style=for-the-badge&logo=amazonaws&logoColor=FF9900)
-![Nginx](https://img.shields.io/badge/Nginx-0A0A0A?style=for-the-badge&logo=nginx&logoColor=009639)
-![Linux](https://img.shields.io/badge/Linux-0A0A0A?style=for-the-badge&logo=linux&logoColor=FCC624)
+**tools**
+<p>
+<img src="https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git"/>
+<img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/Postman-black?style=for-the-badge&logo=postman"/>
+<img src="https://img.shields.io/badge/IntelliJ-black?style=for-the-badge&logo=intellijidea"/>
+<img src="https://img.shields.io/badge/VS_Code-black?style=for-the-badge&logo=visualstudiocode"/>
+<img src="https://img.shields.io/badge/Figma-black?style=for-the-badge&logo=figma"/>
+</p>
 
 **core cs**
-
-![DSA](https://img.shields.io/badge/DSA-00FFAB?style=for-the-badge&logo=codeforces&logoColor=000000)
-![System Design](https://img.shields.io/badge/System_Design-00FFAB?style=for-the-badge&logo=diagramsdotnet&logoColor=000000)
-![OOP](https://img.shields.io/badge/OOP-00FFAB?style=for-the-badge&logo=openjdk&logoColor=000000)
-![DBMS](https://img.shields.io/badge/DBMS-00FFAB?style=for-the-badge&logo=postgresql&logoColor=000000)
-![OS](https://img.shields.io/badge/OS-00FFAB?style=for-the-badge&logo=linux&logoColor=000000)
-![Networks](https://img.shields.io/badge/Networks-00FFAB?style=for-the-badge&logo=cisco&logoColor=000000)
+<p>
+<img src="https://img.shields.io/badge/DSA-black?style=for-the-badge&logo=leetcode"/>
+<img src="https://img.shields.io/badge/System_Design-black?style=for-the-badge&logo=blueprint"/>
+<img src="https://img.shields.io/badge/OOP-black?style=for-the-badge&logo=codeigniter"/>
+<img src="https://img.shields.io/badge/DBMS-black?style=for-the-badge&logo=oracle"/>
+<img src="https://img.shields.io/badge/OS-black?style=for-the-badge&logo=linux"/>
+<img src="https://img.shields.io/badge/Networks-black?style=for-the-badge&logo=cisco"/>
+</p>
 
 </div>
 
