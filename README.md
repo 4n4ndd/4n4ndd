@@ -1,7 +1,7 @@
 <!-- HEADER -->
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=32&pause=2000&color=FFFFFF&center=true&vCenter=true&width=300&lines=Anand" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=32&pause=2000&color=FFFFFF&center=true&vCenter=true&width=300&lines=Anand&repeat=false" alt="Typing SVG" />
 
 <p><code>code</code> • <code>build</code> • <code>design</code> • <code>scale</code></p>
 
@@ -19,7 +19,7 @@
 
 ```
 > whoami
-Anand — backend & systems engineer, builds things that scale and (mostly) don't fall over.
+Hi I am Anand, I am a backend & systems engineer, builds things that scale and (mostly) don't fall over.
 
 > currently
 building   : distributed backend systems
@@ -97,15 +97,11 @@ open to    : backend / full-stack roles
 <div align="center">
 
 <img height="155" src="https://github-readme-stats.vercel.app/api?username=4n4ndd&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0a0a0a&title_color=00ffab&icon_color=00ffab&text_color=e8e8e8"/>
-<img height="155" src="https://github-readme-streak-stats.herokuapp.com/?user=4n4ndd&theme=tokyonight&hide_border=true&background=0a0a0a&ring=00ffab&fire=00ffab&currStreakLabel=00ffab"/>
 
-<br/>
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=4n4ndd&theme=tokyo-night&hide_border=true&bg_color=0a0a0a&color=00ffab&line=00ffab&point=ffffff" alt="activity graph"/>
 
-<br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=4n4ndd&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6" alt="trophies"/>
+
 
 </div>
 
