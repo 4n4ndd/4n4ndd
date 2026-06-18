@@ -1,7 +1,7 @@
 <!-- HEADER -->
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=30&pause=1500&color=00FFAB&center=true&vCenter=true&width=480&lines=Anand+Kumar;Backend+Engineer;Linux+%26+System+Design" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=32&pause=2000&color=FFFFFF&center=true&vCenter=true&width=300&lines=Anand" alt="Typing SVG" />
 
 <p><code>code</code> • <code>build</code> • <code>design</code> • <code>scale</code></p>
 
@@ -9,7 +9,6 @@
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=4n4ndd&label=Profile%20Views&color=00ffab&style=flat-square" alt="Profile views"/>
 <img src="https://img.shields.io/github/followers/4n4ndd?label=Followers&style=flat-square&color=00ffab" alt="Followers"/>
 
 </div>
@@ -33,15 +32,6 @@ open to    : backend / full-stack roles
 **`/tech-arsenal`**
 
 <div align="center">
-
-**languages**
-<p>
-<img src="https://img.shields.io/badge/Java-black?style=for-the-badge&logo=openjdk"/>
-<img src="https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript"/>
-<img src="https://img.shields.io/badge/TypeScript-black?style=for-the-badge&logo=typescript"/>
-<img src="https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python"/>
-<img src="https://img.shields.io/badge/SQL-black?style=for-the-badge&logo=postgresql"/>
-</p>
 
 **backend**
 <p>
@@ -108,6 +98,10 @@ open to    : backend / full-stack roles
 
 <img height="155" src="https://github-readme-stats.vercel.app/api?username=4n4ndd&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0a0a0a&title_color=00ffab&icon_color=00ffab&text_color=e8e8e8"/>
 <img height="155" src="https://github-readme-streak-stats.herokuapp.com/?user=4n4ndd&theme=tokyonight&hide_border=true&background=0a0a0a&ring=00ffab&fire=00ffab&currStreakLabel=00ffab"/>
+
+<br/>
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=4n4ndd&theme=tokyo-night&hide_border=true&bg_color=0a0a0a&color=00ffab&line=00ffab&point=ffffff" alt="activity graph"/>
 
 <br/>
 
