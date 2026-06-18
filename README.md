@@ -7,11 +7,7 @@
 
 `Backend` · `Linux` · `System Design`
 
-<br/>
 
-<img src="https://img.shields.io/github/followers/4n4ndd?label=Followers&style=flat-square&color=00ffab" alt="Followers"/>
-
-</div>
 
 ---
 
