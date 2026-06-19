@@ -30,13 +30,16 @@ open to    : backend / full-stack roles
 <div align="center">
 
 **backend**
+**backend**
 <p>
-<img src="https://img.shields.io/badge/Spring_Boot-black?style=for-the-badge&logo=springboot"/>
-<img src="https://img.shields.io/badge/Spring-black?style=for-the-badge&logo=spring"/>
-<img src="https://img.shields.io/badge/Hibernate-black?style=for-the-badge&logo=hibernate"/>
-<img src="https://img.shields.io/badge/REST_APIs-black?style=for-the-badge&logo=fastapi"/>
-<img src="https://img.shields.io/badge/Node.js-black?style=for-the-badge&logo=nodedotjs"/>
-<img src="https://img.shields.io/badge/Express-black?style=for-the-badge&logo=express"/>
+  <img src="https://img.shields.io/badge/Java-black?style=for-the-badge&logo=openjdk"/>
+  <img src="https://img.shields.io/badge/Spring_Boot-black?style=for-the-badge&logo=springboot"/>
+  <img src="https://img.shields.io/badge/Spring-black?style=for-the-badge&logo=spring"/>
+  <img src="https://img.shields.io/badge/Hibernate-black?style=for-the-badge&logo=hibernate"/>
+  <img src="https://img.shields.io/badge/REST_APIs-black?style=for-the-badge&logo=fastapi"/>
+  <img src="https://img.shields.io/badge/GraphQL-black?style=for-the-badge&logo=graphql"/>
+  <img src="https://img.shields.io/badge/Flask-black?style=for-the-badge&logo=flask"/>
+  <img src="https://img.shields.io/badge/Microservices-black?style=for-the-badge&logo=spring"/>
 </p>
 
 **frontend**
