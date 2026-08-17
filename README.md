@@ -30,7 +30,6 @@ open to    : backend / full-stack roles
 <div align="center">
 
 **backend**
-**backend**
 <p>
   <img src="https://img.shields.io/badge/Java-black?style=for-the-badge&logo=openjdk"/>
   <img src="https://img.shields.io/badge/Spring_Boot-black?style=for-the-badge&logo=springboot"/>
