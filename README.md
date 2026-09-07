@@ -5,9 +5,11 @@
 
 <p><code>code</code> • <code>build</code> • <code>design</code> • <code>scale</code></p>
 
-`Backend` · `Linux` · `System Design`
+`Backend` · `Distributed Systems` · `Linux` · `System Design`
 
+<img src="https://komarev.com/ghpvc/?username=4n4ndd&label=Profile%20Views&color=00ffab&style=flat" alt="profile views"/>
 
+</div>
 
 ---
 
@@ -15,12 +17,17 @@
 
 ```
 > whoami
-Hi I am Anand, I am a backend & systems engineer, builds things that scale and (mostly) don't fall over.
+Hi I am Anand, a backend & systems engineer who builds things that scale
+and (mostly) don't fall over.
 
 > currently
 building   : distributed backend systems
-learning   : deeper system design patterns
+learning   : deeper system design patterns, event-driven architecture
 open to    : backend / full-stack roles
+
+> stack philosophy
+prefer boring, reliable tech that i understand deeply over shiny things
+i don't. optimize for correctness first, then scale.
 ```
 
 ---
@@ -39,6 +46,13 @@ open to    : backend / full-stack roles
   <img src="https://img.shields.io/badge/GraphQL-black?style=for-the-badge&logo=graphql"/>
   <img src="https://img.shields.io/badge/Flask-black?style=for-the-badge&logo=flask"/>
   <img src="https://img.shields.io/badge/Microservices-black?style=for-the-badge&logo=spring"/>
+</p>
+
+**messaging & streaming**
+<p>
+<img src="https://img.shields.io/badge/Apache_Kafka-black?style=for-the-badge&logo=apachekafka"/>
+<img src="https://img.shields.io/badge/RabbitMQ-black?style=for-the-badge&logo=rabbitmq"/>
+<img src="https://img.shields.io/badge/Event_Driven_Arch-black?style=for-the-badge&logo=apacheairflow"/>
 </p>
 
 **frontend**
@@ -60,10 +74,15 @@ open to    : backend / full-stack roles
 
 **devops & cloud**
 <p>
-<img src="https://img.shields.io/badge/Docker-black?style=for-the-badge&logo=docker"/>
 <img src="https://img.shields.io/badge/AWS-black?style=for-the-badge&logo=amazonaws"/>
+<img src="https://img.shields.io/badge/EC2-black?style=for-the-badge&logo=amazonec2"/>
+<img src="https://img.shields.io/badge/S3-black?style=for-the-badge&logo=amazons3"/>
+<img src="https://img.shields.io/badge/Lambda-black?style=for-the-badge&logo=awslambda"/>
+<img src="https://img.shields.io/badge/Docker-black?style=for-the-badge&logo=docker"/>
+<img src="https://img.shields.io/badge/Kubernetes-black?style=for-the-badge&logo=kubernetes"/>
 <img src="https://img.shields.io/badge/Nginx-black?style=for-the-badge&logo=nginx"/>
 <img src="https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux"/>
+<img src="https://img.shields.io/badge/CI/CD-black?style=for-the-badge&logo=githubactions"/>
 </p>
 
 **tools**
@@ -95,11 +114,11 @@ open to    : backend / full-stack roles
 <div align="center">
 
 <img height="155" src="https://github-readme-stats.vercel.app/api?username=4n4ndd&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0a0a0a&title_color=00ffab&icon_color=00ffab&text_color=e8e8e8"/>
+<img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=4n4ndd&layout=compact&theme=tokyonight&hide_border=true&bg_color=0a0a0a&title_color=00ffab&text_color=e8e8e8"/>
 
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=4n4ndd&theme=tokyonight&hide_border=true&background=0a0a0a&ring=00ffab&fire=00ffab&currStreakLabel=00ffab"/>
 
-
-
-
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=4n4ndd&theme=tokyo-night&hide_border=true&bg_color=0a0a0a&color=00ffab&line=00ffab&point=e8e8e8"/>
 
 </div>
 
