@@ -111,20 +111,9 @@ i don't. optimize for correctness first, then scale.
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=4n4ndd&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0a0a0a&title_color=00ffab&icon_color=00ffab&text_color=e8e8e8"/>
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=4n4ndd&layout=compact&theme=tokyonight&hide_border=true&bg_color=0a0a0a&title_color=00ffab&text_color=e8e8e8"/>
-
-<br/>
-
-<img width="500" src="https://github-readme-streak-vercel.vercel.app/?user=4n4ndd&theme=tokyonight&hide_border=true&background=0a0a0a&ring=00ffab&fire=00ffab&currStreakLabel=00ffab"/>
-
-<br/>
-
-<img width="850" src="https://github-readme-activity-graph.vercel.app/graph?username=4n4ndd&theme=tokyo-night&hide_border=true&bg_color=0a0a0a&color=00ffab&line=00ffab&point=e8e8e8"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=4n4ndd&bg_color=0a0a0a&color=00ffab&line=00ffab&point=e8e8e8&hide_border=true" width="95%"/>
 
 </div>
-
 
 ---
 
