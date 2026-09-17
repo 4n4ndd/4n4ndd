@@ -1,222 +1,143 @@
-# Anand
+<!-- HEADER -->
+<div align="center">
 
-### Backend Engineer · Distributed Systems · Java
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=32&pause=2000&color=FFFFFF&center=true&vCenter=true&width=300&lines=Anand&repeat=false" alt="Typing SVG" />
 
-I build backend systems with a focus on **scalability, reliability, and clean architecture**.
+<p><code>code</code> • <code>build</code> • <code>design</code> • <code>scale</code></p>
 
-Currently exploring distributed systems, event-driven architecture, and system design while building production-style systems with Java and Spring Boot.
+`Backend` · `Distributed Systems` · `Linux` · `System Design`
 
-<p align="left">
-  <a href="mailto:anandkumar001k@gmail.com">
-    <img src="https://img.shields.io/badge/Email-111111?style=flat-square&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://github.com/4n4ndd">
-    <img src="https://img.shields.io/badge/GitHub-111111?style=flat-square&logo=github&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/4n4ndd">
-    <img src="https://img.shields.io/badge/LinkedIn-111111?style=flat-square&logo=linkedin&logoColor=white"/>
-  </a>
-</p>
+<img src="https://komarev.com/ghpvc/?username=4n4ndd&label=Profile%20Views&color=00ffab&style=flat" alt="profile views"/>
+
+</div>
 
 ---
 
-## What I Build
+**`~/about.md`**
 
-```text
-Distributed Systems
-        ↓
-Microservices · Event-Driven Architecture · REST APIs
-        ↓
-Kafka · Redis · PostgreSQL · Docker · AWS
-        ↓
-Scalable · Reliable · Maintainable Backends
+```
+> whoami
+Hi I am Anand, a backend & systems engineer who builds things that scale
+and (mostly) don't fall over.
+
+> currently
+building   : distributed backend systems
+learning   : deeper system design patterns, event-driven architecture
+open to    : backend / full-stack roles
+
+> stack philosophy
+prefer boring, reliable tech that i understand deeply over shiny things
+i don't. optimize for correctness first, then scale.
 ```
 
-I enjoy building systems where multiple services, databases, message brokers, and infrastructure have to work together reliably.
-
 ---
 
-## Tech Stack
+**`/tech-arsenal`**
 
-### Backend · Messaging & Streaming
+<div align="center">
 
+**backend**
 <p>
-<img src="https://img.shields.io/badge/Java-111111?style=flat-square&logo=openjdk&logoColor=white"/>
-<img src="https://img.shields.io/badge/Spring_Boot-111111?style=flat-square&logo=springboot&logoColor=white"/>
-<img src="https://img.shields.io/badge/Spring_Cloud-111111?style=flat-square&logo=spring&logoColor=white"/>
-<img src="https://img.shields.io/badge/Hibernate-111111?style=flat-square&logo=hibernate&logoColor=white"/>
-<img src="https://img.shields.io/badge/REST_APIs-111111?style=flat-square&logo=fastapi&logoColor=white"/>
-<img src="https://img.shields.io/badge/GraphQL-111111?style=flat-square&logo=graphql&logoColor=white"/>
-<img src="https://img.shields.io/badge/Flask-111111?style=flat-square&logo=flask&logoColor=white"/>
-<img src="https://img.shields.io/badge/Microservices-111111?style=flat-square&logo=spring&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-black?style=for-the-badge&logo=openjdk"/>
+  <img src="https://img.shields.io/badge/Spring_Boot-black?style=for-the-badge&logo=springboot"/>
+  <img src="https://img.shields.io/badge/Spring-black?style=for-the-badge&logo=spring"/>
+  <img src="https://img.shields.io/badge/Hibernate-black?style=for-the-badge&logo=hibernate"/>
+  <img src="https://img.shields.io/badge/REST_APIs-black?style=for-the-badge&logo=fastapi"/>
+  <img src="https://img.shields.io/badge/GraphQL-black?style=for-the-badge&logo=graphql"/>
+  <img src="https://img.shields.io/badge/Flask-black?style=for-the-badge&logo=flask"/>
+  <img src="https://img.shields.io/badge/Microservices-black?style=for-the-badge&logo=spring"/>
+  <p>
+<img src="https://img.shields.io/badge/Apache_Kafka-black?style=for-the-badge&logo=apachekafka"/>
+<img src="https://img.shields.io/badge/RabbitMQ-black?style=for-the-badge&logo=rabbitmq"/>
+<img src="https://img.shields.io/badge/Event_Driven_Arch-black?style=for-the-badge&logo=apacheairflow"/>
+</p>
 </p>
 
+**frontend**
 <p>
-<img src="https://img.shields.io/badge/Apache_Kafka-111111?style=flat-square&logo=apachekafka&logoColor=white"/>
-<img src="https://img.shields.io/badge/RabbitMQ-111111?style=flat-square&logo=rabbitmq&logoColor=white"/>
-<img src="https://img.shields.io/badge/Event_Driven_Architecture-111111?style=flat-square&logo=apachekafka&logoColor=white"/>
-<img src="https://img.shields.io/badge/Redis-111111?style=flat-square&logo=redis&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-black?style=for-the-badge&logo=react"/>
+<img src="https://img.shields.io/badge/Redux-black?style=for-the-badge&logo=redux"/>
+<img src="https://img.shields.io/badge/TailwindCSS-black?style=for-the-badge&logo=tailwindcss"/>
+<img src="https://img.shields.io/badge/Bootstrap-black?style=for-the-badge&logo=bootstrap"/>
+<img src="https://img.shields.io/badge/Vite-black?style=for-the-badge&logo=vite"/>
 </p>
 
-### Databases
-
+**databases**
 <p>
-<img src="https://img.shields.io/badge/PostgreSQL-111111?style=flat-square&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/MySQL-111111?style=flat-square&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/MongoDB-111111?style=flat-square&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-black?style=for-the-badge&logo=postgresql"/>
+<img src="https://img.shields.io/badge/MongoDB-black?style=for-the-badge&logo=mongodb"/>
+<img src="https://img.shields.io/badge/MySQL-black?style=for-the-badge&logo=mysql"/>
+<img src="https://img.shields.io/badge/Redis-black?style=for-the-badge&logo=redis"/>
 </p>
 
-### Cloud & Infrastructure
-
+**devops & cloud**
 <p>
-<img src="https://img.shields.io/badge/AWS-111111?style=flat-square&logo=amazonaws&logoColor=white"/>
-<img src="https://img.shields.io/badge/Amazon_S3-111111?style=flat-square&logo=amazons3&logoColor=white"/>
-<img src="https://img.shields.io/badge/EC2-111111?style=flat-square&logo=amazonec2&logoColor=white"/>
-<img src="https://img.shields.io/badge/Docker-111111?style=flat-square&logo=docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/Kubernetes-111111?style=flat-square&logo=kubernetes&logoColor=white"/>
-<img src="https://img.shields.io/badge/Linux-111111?style=flat-square&logo=linux&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub_Actions-111111?style=flat-square&logo=githubactions&logoColor=white"/>
+<img src="https://img.shields.io/badge/AWS-black?style=for-the-badge&logo=amazonaws"/>
+<img src="https://img.shields.io/badge/EC2-black?style=for-the-badge&logo=amazonec2"/>
+<img src="https://img.shields.io/badge/S3-black?style=for-the-badge&logo=amazons3"/>
+<img src="https://img.shields.io/badge/Lambda-black?style=for-the-badge&logo=awslambda"/>
+<img src="https://img.shields.io/badge/Docker-black?style=for-the-badge&logo=docker"/>
+<img src="https://img.shields.io/badge/Kubernetes-black?style=for-the-badge&logo=kubernetes"/>
+<img src="https://img.shields.io/badge/Nginx-black?style=for-the-badge&logo=nginx"/>
+<img src="https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux"/>
+<img src="https://img.shields.io/badge/CI/CD-black?style=for-the-badge&logo=githubactions"/>
 </p>
 
-### Frontend
-
+**tools**
 <p>
-<img src="https://img.shields.io/badge/React-111111?style=flat-square&logo=react&logoColor=white"/>
-<img src="https://img.shields.io/badge/Redux-111111?style=flat-square&logo=redux&logoColor=white"/>
-<img src="https://img.shields.io/badge/Tailwind_CSS-111111?style=flat-square&logo=tailwindcss&logoColor=white"/>
-<img src="https://img.shields.io/badge/Vite-111111?style=flat-square&logo=vite&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git"/>
+<img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/Postman-black?style=for-the-badge&logo=postman"/>
+<img src="https://img.shields.io/badge/IntelliJ-black?style=for-the-badge&logo=intellijidea"/>
+<img src="https://img.shields.io/badge/VS_Code-black?style=for-the-badge&logo=visualstudiocode"/>
+<img src="https://img.shields.io/badge/Figma-black?style=for-the-badge&logo=figma"/>
 </p>
 
----
-
-## Featured Projects
-
-### Distributed Video Streaming Platform
-
-A microservices-based video processing and streaming system built around asynchronous processing.
-
-**Architecture**
-
-`Content Service` → `Video Service` → `Kafka` → `Encoding Service` → `S3` → `Streaming Service`
-
-**Built with**
-
-`Java` `Spring Boot` `Kafka` `Redis` `AWS S3` `FFmpeg` `HLS`
-
-* Asynchronous video-processing pipeline using Kafka
-* Multi-resolution video encoding with FFmpeg
-* HLS-based adaptive video delivery
-* Redis-based playlist metadata caching
-* AWS S3 for raw and encoded video storage
-* Presigned URLs for secure streaming
-
----
-
-### Saga Order Processing System
-
-An event-driven microservices platform demonstrating distributed transaction management using the **Saga orchestration pattern**.
-
-**Services**
-
-`API Gateway` · `Auth` · `User` · `Order` · `Inventory` · `Payment` · `Notification`
-
-**Infrastructure**
-
-`Spring Cloud` · `Kafka` · `PostgreSQL` · `Redis` · `Docker`
-
-* Distributed order workflow across independent services
-* Saga orchestration for cross-service transactions
-* Compensating transactions for failed operations
-* Service discovery with Eureka
-* Centralized configuration with Config Server
-* Event-driven communication using Kafka
-
----
-
-### WorkWave — Job Portal
-
-A full-stack job platform with separate workflows for candidates and recruiters.
-
-`Java` `Spring Boot` `PostgreSQL` `JWT` `OAuth2` `React`
-
-* JWT-based authentication and authorization
-* Google OAuth2 authentication
-* Recruiter and candidate role-based access
-* Job creation, updating, deletion and discovery
-* Application management APIs
-
----
-
-### Absolute Cinema
-
-A movie recommendation platform combining a machine-learning recommendation engine with a Java backend.
-
-`Spring Boot` `React` `Flask` `Python` `MovieLens` `SVD`
-
-* Collaborative filtering recommendation system
-* MovieLens dataset for model training
-* Flask-based ML inference service
-* Spring Boot backend integration
-* React frontend for movie discovery
-
----
-
-## Engineering Interests
-
-```text
-System Design
-├── Distributed Systems
-├── Microservices
-├── Event-Driven Architecture
-├── Message Brokers
-├── Distributed Transactions
-├── Database Design
-├── Caching
-├── API Design
-└── Scalability & Reliability
-```
-
-Currently going deeper into:
-
-* Distributed transactions
-* Kafka architecture & internals
-* Database indexing & optimization
-* Caching strategies
-* High-level system design
-* Low-level design
-* Cloud infrastructure
-
----
-
-## Computer Science
-
-`Data Structures & Algorithms` · `OOP` · `DBMS` · `Operating Systems` · `Computer Networks` · `System Design`
-
----
-
-## GitHub Activity
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=4n4ndd&show_icons=true&hide_border=true&theme=transparent&title_color=ffffff&text_color=999999&icon_color=ffffff"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=4n4ndd&layout=compact&hide_border=true&theme=transparent&title_color=ffffff&text_color=999999"/>
+**core cs**
+<p>
+<img src="https://img.shields.io/badge/DSA-black?style=for-the-badge&logo=leetcode"/>
+<img src="https://img.shields.io/badge/System_Design-black?style=for-the-badge&logo=blueprint"/>
+<img src="https://img.shields.io/badge/OOP-black?style=for-the-badge&logo=codeigniter"/>
+<img src="https://img.shields.io/badge/DBMS-black?style=for-the-badge&logo=oracle"/>
+<img src="https://img.shields.io/badge/OS-black?style=for-the-badge&logo=linux"/>
+<img src="https://img.shields.io/badge/Networks-black?style=for-the-badge&logo=cisco"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=4n4ndd&theme=transparent&hide_border=true&ring=ffffff&fire=ffffff&currStreakLabel=ffffff"/>
-</p>
+</div>
 
 ---
 
-## Beyond Code
+**`/activity`**
 
-`Movies` · `Writing` · `Storytelling` · `Cricket` · `Direction`
+<div align="center">
 
-I like understanding how stories are structured almost as much as understanding how systems are structured.
+<img height="155" src="https://github-readme-stats.vercel.app/api?username=4n4ndd&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0a0a0a&title_color=00ffab&icon_color=00ffab&text_color=e8e8e8"/>
+<img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=4n4ndd&layout=compact&theme=tokyonight&hide_border=true&bg_color=0a0a0a&title_color=00ffab&text_color=e8e8e8"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=4n4ndd&theme=tokyonight&hide_border=true&background=0a0a0a&ring=00ffab&fire=00ffab&currStreakLabel=00ffab"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=4n4ndd&theme=tokyo-night&hide_border=true&bg_color=0a0a0a&color=00ffab&line=00ffab&point=e8e8e8"/>
+
+</div>
 
 ---
 
-<p align="center">
+**`/human`**
 
-### Build systems. Understand them. Make them better.
+`movies` · `writing` · `direction` · `cricket` · `storytelling`
 
-</p>
+---
+
+**`/connect`**
+
+<div align="center">
+
+<a href="mailto:anandkumar001k@gmail.com"><img src="https://img.shields.io/badge/Email-black?style=for-the-badge&logo=gmail&logoColor=00ffab"/></a>
+<a href="https://github.com/4n4ndd"><img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=00ffab"/></a>
+<a href="https://www.linkedin.com/in/4n4ndd"><img src="https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin&logoColor=00ffab"/></a>
+
+<br/><br/>
+
+<sub>thanks for stopping by — fork, star, or say hi 👋</sub>
+
+</div>
