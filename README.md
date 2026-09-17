@@ -111,7 +111,7 @@ i don't. optimize for correctness first, then scale.
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=4n4ndd&bg_color=0a0a0a&color=00ffab&line=00ffab&point=e8e8e8&hide_border=true" width="95%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=4n4ndd&theme=tokyonight&hide_border=true&background=0a0a0a&ring=00ffab&fire=00ffab&currStreakLabel=00ffab"/>
 
 </div>
 
