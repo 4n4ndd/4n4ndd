@@ -5,7 +5,7 @@
 
 <p><code>code</code> • <code>build</code> • <code>design</code> • <code>scale</code></p>
 
-`Backend` · `Distributed Systems` · `Linux` · `System Design`
+`Backend` · `Linux` · `System Design`
 
 <img src="https://komarev.com/ghpvc/?username=4n4ndd&label=Profile%20Views&color=00ffab&style=flat" alt="profile views"/>
 
