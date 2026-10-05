@@ -17,17 +17,7 @@
 
 ```
 > whoami
-Hi I am Anand, a backend & systems engineer who builds things that scale
-and (mostly) don't fall over.
-
-> currently
-building   : distributed backend systems
-learning   : deeper system design patterns, event-driven architecture
-open to    : backend / full-stack roles
-
-> stack philosophy
-prefer boring, reliable tech that i understand deeply over shiny things
-i don't. optimize for correctness first, then scale.
+HHey, I'm Anand, a backend and systems engineer. I build distributed backend systems with Java and Spring Boot, and I'm currently learning more about event-driven architecture and system design. My recent work includes a Kafka-based video streaming platform and a Redis-backed URL shortener. Outside of code, I like movies, writing and cricket. I'm open to backend and full-stack roles.
 ```
 
 ---
