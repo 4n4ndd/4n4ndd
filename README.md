@@ -163,7 +163,7 @@
       </a>
       <br/>
       <br/>
-      <img src="https://img.shields.io/badge/Java-black?style=flat-square&logo=react"/>
+      <img src="https://img.shields.io/badge/React-black?style=flat-square&logo=react"/>
       <img src="https://img.shields.io/badge/Spring_Boot-black?style=flat-square&logo=springboot"/>
       <img src="https://img.shields.io/badge/Spring_Security-black?style=flat-square&logo=springsecurity"/>
     </td>
