@@ -115,11 +115,11 @@ i don't. optimize for correctness first, then scale.
 <table>
   <tr>
     <td align="center" width="50%">
-      <a href="https://github.com/4n4ndd/PROJECT-1">
+      <a href="[https://github.com/4n4ndd/](https://github.com/4n4ndd/Strike-Distributed-VIdeo-Processing-Streaming-Distribution-Platform.git)">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=4n4ndd&repo=PROJECT-1&theme=tokyonight&hide_border=true&bg_color=0a0a0a&title_color=00ffab&icon_color=00ffab"/>
       </a>
       <br/>
-      <sub>One-line description of what it does and why it matters</sub>
+      <sub>A distributed video streaming platform built with Spring Boot Microservices, Apache Kafka, AWS S3, Redis, FFmpeg, and HLS.</sub>
       <br/>
       <img src="https://img.shields.io/badge/Java-black?style=flat-square&logo=openjdk"/>
       <img src="https://img.shields.io/badge/Spring_Boot-black?style=flat-square&logo=springboot"/>
