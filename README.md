@@ -17,7 +17,12 @@
 
 ```
 > whoami
-HHey, I'm Anand, a backend and systems engineer. I build distributed backend systems with Java and Spring Boot, and I'm currently learning more about event-driven architecture and system design. My recent work includes a Kafka-based video streaming platform and a Redis-backed URL shortener. Outside of code, I like movies, writing and cricket. I'm open to backend and full-stack roles.
+> Hey, I'm Anand, a backend and systems engineer
+> Building distributed backend systems with Java and Spring Boot
+> Learning event-driven architecture and system design
+> Recent work: Kafka video streaming platform, Redis-backed URL shortener
+> Outside of code: movies, writing, cricket
+> Open to backend / full-stack role
 ```
 
 ---
