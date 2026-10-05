@@ -142,7 +142,6 @@
       <br/>
       <img src="https://img.shields.io/badge/Spring_Boot-black?style=flat-square&logo=springboot"/>
       <img src="https://img.shields.io/badge/WebClient-black?style=flat-square&logo=spring"/>
-      <img src="https://img.shields.io/badge/PostgreSQL-black?style=flat-square&logo=postgresql"/>
       <img src="https://img.shields.io/badge/Redis-black?style=flat-square&logo=redis"/>
     </td>
     <td align="center" width="50%">
@@ -164,7 +163,7 @@
       </a>
       <br/>
       <br/>
-      <img src="https://img.shields.io/badge/Java-black?style=flat-square&logo=openjdk"/>
+      <img src="https://img.shields.io/badge/Java-black?style=flat-square&logo=react"/>
       <img src="https://img.shields.io/badge/Spring_Boot-black?style=flat-square&logo=springboot"/>
       <img src="https://img.shields.io/badge/Spring_Security-black?style=flat-square&logo=springsecurity"/>
     </td>
