@@ -114,7 +114,6 @@
       </a>
       <br/>
       <br/>
-      <img src="https://img.shields.io/badge/Java-black?style=flat-square&logo=openjdk"/>
       <img src="https://img.shields.io/badge/Spring_Boot-black?style=flat-square&logo=springboot"/>
       <img src="https://img.shields.io/badge/Kafka-black?style=flat-square&logo=apachekafka"/>
       <img src="https://img.shields.io/badge/Redis-black?style=flat-square&logo=redis"/>
