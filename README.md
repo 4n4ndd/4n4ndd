@@ -17,12 +17,12 @@
 
 ```
 > whoami
-> Hey, I'm Anand, a backend and systems engineer
-> Building distributed backend systems with Java and Spring Boot
-> Learning event-driven architecture and system design
-> Recent work: Kafka video streaming platform, Redis-backed URL shortener
-> Outside of code: movies, writing, cricket
-> Open to backend / full-stack role
+Hey, I'm Anand, a backend and systems engineer
+Building distributed backend systems with Java and Spring Boot
+Learning event-driven architecture and system design
+Recent work: Kafka video streaming platform, Redis-backed URL shortener
+Outside of code: movies, writing, cricket
+Open to backend / full-stack roles
 ```
 
 ---
@@ -110,9 +110,8 @@
   <tr>
     <td align="center" width="50%">
       <a href="https://github.com/4n4ndd/Strike-Distributed-VIdeo-Processing-Streaming-Distribution-Platform">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=4n4ndd&repo=Strike-Distributed-VIdeo-Processing-Streaming-Distribution-Platform&theme=tokyonight&hide_border=true&bg_color=0a0a0a&title_color=00ffab&icon_color=00ffab"/>
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=4n4ndd&repo=Strike-Distributed-VIdeo-Processing-Streaming-Distribution-Platform&theme=tokyonight&hide_border=true&bg_color=0a0a0a&title_color=00ffab&icon_color=00ffab&v=2"/>
       </a>
-      <br/>
       <br/>
       <img src="https://img.shields.io/badge/Spring_Boot-black?style=flat-square&logo=springboot"/>
       <img src="https://img.shields.io/badge/Kafka-black?style=flat-square&logo=apachekafka"/>
@@ -122,9 +121,8 @@
     </td>
     <td align="center" width="50%">
       <a href="https://github.com/4n4ndd/URL-SHORTENER">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=4n4ndd&repo=URL-SHORTENER&theme=tokyonight&hide_border=true&bg_color=0a0a0a&title_color=00ffab&icon_color=00ffab"/>
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=4n4ndd&repo=URL-SHORTENER&theme=tokyonight&hide_border=true&bg_color=0a0a0a&title_color=00ffab&icon_color=00ffab&v=2"/>
       </a>
-      <br/>
       <br/>
       <img src="https://img.shields.io/badge/Java-black?style=flat-square&logo=openjdk"/>
       <img src="https://img.shields.io/badge/Spring_Boot-black?style=flat-square&logo=springboot"/>
@@ -135,19 +133,18 @@
   <tr>
     <td align="center" width="50%">
       <a href="https://github.com/4n4ndd/Dino-GithubAnalyticsPlatform">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=4n4ndd&repo=Dino-GithubAnalyticsPlatform&theme=tokyonight&hide_border=true&bg_color=0a0a0a&title_color=00ffab&icon_color=00ffab"/>
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=4n4ndd&repo=Dino-GithubAnalyticsPlatform&theme=tokyonight&hide_border=true&bg_color=0a0a0a&title_color=00ffab&icon_color=00ffab&v=2"/>
       </a>
-      <br/>
       <br/>
       <img src="https://img.shields.io/badge/Spring_Boot-black?style=flat-square&logo=springboot"/>
       <img src="https://img.shields.io/badge/WebClient-black?style=flat-square&logo=spring"/>
+      <img src="https://img.shields.io/badge/PostgreSQL-black?style=flat-square&logo=postgresql"/>
       <img src="https://img.shields.io/badge/Redis-black?style=flat-square&logo=redis"/>
     </td>
     <td align="center" width="50%">
       <a href="https://github.com/4n4ndd/AbsoluteCinema">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=4n4ndd&repo=AbsoluteCinema&theme=tokyonight&hide_border=true&bg_color=0a0a0a&title_color=00ffab&icon_color=00ffab"/>
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=4n4ndd&repo=AbsoluteCinema&theme=tokyonight&hide_border=true&bg_color=0a0a0a&title_color=00ffab&icon_color=00ffab&v=2"/>
       </a>
-      <br/>
       <br/>
       <img src="https://img.shields.io/badge/Spring_Boot-black?style=flat-square&logo=springboot"/>
       <img src="https://img.shields.io/badge/Flask-black?style=flat-square&logo=flask"/>
@@ -158,9 +155,8 @@
   <tr>
     <td align="center" width="50%">
       <a href="https://github.com/4n4ndd/WorkWave-2.O">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=4n4ndd&repo=WorkWave-2.O&theme=tokyonight&hide_border=true&bg_color=0a0a0a&title_color=00ffab&icon_color=00ffab"/>
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=4n4ndd&repo=WorkWave-2.O&theme=tokyonight&hide_border=true&bg_color=0a0a0a&title_color=00ffab&icon_color=00ffab&v=2"/>
       </a>
-      <br/>
       <br/>
       <img src="https://img.shields.io/badge/React-black?style=flat-square&logo=react"/>
       <img src="https://img.shields.io/badge/Spring_Boot-black?style=flat-square&logo=springboot"/>
@@ -168,9 +164,8 @@
     </td>
     <td align="center" width="50%">
       <a href="https://github.com/4n4ndd/firebaseChatApplication">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=4n4ndd&repo=firebaseChatApplication&theme=tokyonight&hide_border=true&bg_color=0a0a0a&title_color=00ffab&icon_color=00ffab"/>
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=4n4ndd&repo=firebaseChatApplication&theme=tokyonight&hide_border=true&bg_color=0a0a0a&title_color=00ffab&icon_color=00ffab&v=2"/>
       </a>
-      <br/>
       <br/>
       <img src="https://img.shields.io/badge/Android-black?style=flat-square&logo=android"/>
       <img src="https://img.shields.io/badge/Android_Studio-black?style=flat-square&logo=androidstudio"/>
