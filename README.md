@@ -118,7 +118,6 @@ i don't. optimize for correctness first, then scale.
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=4n4ndd&repo=Strike-Distributed-VIdeo-Processing-Streaming-Distribution-Platform&theme=tokyonight&hide_border=true&bg_color=0a0a0a&title_color=00ffab&icon_color=00ffab"/>
       </a>
       <br/>
-      <sub>A distributed video streaming platform built with Spring Boot microservices, Apache Kafka, AWS S3, Redis, FFmpeg, and HLS.</sub>
       <br/>
       <img src="https://img.shields.io/badge/Java-black?style=flat-square&logo=openjdk"/>
       <img src="https://img.shields.io/badge/Spring_Boot-black?style=flat-square&logo=springboot"/>
@@ -132,7 +131,6 @@ i don't. optimize for correctness first, then scale.
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=4n4ndd&repo=URL-SHORTENER&theme=tokyonight&hide_border=true&bg_color=0a0a0a&title_color=00ffab&icon_color=00ffab"/>
       </a>
       <br/>
-      <sub>Production-oriented URL shortener with custom short codes, expiry, validation, and Redis-backed caching and IP rate limiting.</sub>
       <br/>
       <img src="https://img.shields.io/badge/Java-black?style=flat-square&logo=openjdk"/>
       <img src="https://img.shields.io/badge/Spring_Boot-black?style=flat-square&logo=springboot"/>
@@ -146,7 +144,6 @@ i don't. optimize for correctness first, then scale.
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=4n4ndd&repo=Dino-GithubAnalyticsPlatform&theme=tokyonight&hide_border=true&bg_color=0a0a0a&title_color=00ffab&icon_color=00ffab"/>
       </a>
       <br/>
-      <sub>GitHub Developer Analytics: search any username for profile, repos, languages, commits, and contributors via the GitHub REST API.</sub>
       <br/>
       <img src="https://img.shields.io/badge/Spring_Boot-black?style=flat-square&logo=springboot"/>
       <img src="https://img.shields.io/badge/WebClient-black?style=flat-square&logo=spring"/>
@@ -158,7 +155,6 @@ i don't. optimize for correctness first, then scale.
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=4n4ndd&repo=AbsoluteCinema&theme=tokyonight&hide_border=true&bg_color=0a0a0a&title_color=00ffab&icon_color=00ffab"/>
       </a>
       <br/>
-      <sub>ML-powered movie recommender using SVD collaborative filtering on MovieLens, with a Flask ML service behind a Spring Boot backend.</sub>
       <br/>
       <img src="https://img.shields.io/badge/Spring_Boot-black?style=flat-square&logo=springboot"/>
       <img src="https://img.shields.io/badge/Flask-black?style=flat-square&logo=flask"/>
@@ -172,7 +168,6 @@ i don't. optimize for correctness first, then scale.
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=4n4ndd&repo=WorkWave-2.O&theme=tokyonight&hide_border=true&bg_color=0a0a0a&title_color=00ffab&icon_color=00ffab"/>
       </a>
       <br/>
-      <sub>Job portal connecting seekers and employers, with REST APIs for job CRUD and search plus secure authentication and authorization.</sub>
       <br/>
       <img src="https://img.shields.io/badge/Java-black?style=flat-square&logo=openjdk"/>
       <img src="https://img.shields.io/badge/Spring_Boot-black?style=flat-square&logo=springboot"/>
@@ -183,7 +178,6 @@ i don't. optimize for correctness first, then scale.
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=4n4ndd&repo=firebaseChatApplication&theme=tokyonight&hide_border=true&bg_color=0a0a0a&title_color=00ffab&icon_color=00ffab"/>
       </a>
       <br/>
-      <sub>Real-time Android chat app with Firebase authentication, live data sync, and cloud-backed messaging.</sub>
       <br/>
       <img src="https://img.shields.io/badge/Android-black?style=flat-square&logo=android"/>
       <img src="https://img.shields.io/badge/Android_Studio-black?style=flat-square&logo=androidstudio"/>
