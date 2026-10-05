@@ -106,6 +106,88 @@ i don't. optimize for correctness first, then scale.
 </div>
 
 ---
+---
+
+**`/projects`**
+
+<div align="center">
+
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://github.com/4n4ndd/PROJECT-1">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=4n4ndd&repo=PROJECT-1&theme=tokyonight&hide_border=true&bg_color=0a0a0a&title_color=00ffab&icon_color=00ffab"/>
+      </a>
+      <br/>
+      <sub>One-line description of what it does and why it matters</sub>
+      <br/>
+      <img src="https://img.shields.io/badge/Java-black?style=flat-square&logo=openjdk"/>
+      <img src="https://img.shields.io/badge/Spring_Boot-black?style=flat-square&logo=springboot"/>
+      <img src="https://img.shields.io/badge/Kafka-black?style=flat-square&logo=apachekafka"/>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://github.com/4n4ndd/PROJECT-2">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=4n4ndd&repo=PROJECT-2&theme=tokyonight&hide_border=true&bg_color=0a0a0a&title_color=00ffab&icon_color=00ffab"/>
+      </a>
+      <br/>
+      <sub>One-line description of what it does and why it matters</sub>
+      <br/>
+      <img src="https://img.shields.io/badge/React-black?style=flat-square&logo=react"/>
+      <img src="https://img.shields.io/badge/PostgreSQL-black?style=flat-square&logo=postgresql"/>
+      <img src="https://img.shields.io/badge/Docker-black?style=flat-square&logo=docker"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://github.com/4n4ndd/PROJECT-3">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=4n4ndd&repo=PROJECT-3&theme=tokyonight&hide_border=true&bg_color=0a0a0a&title_color=00ffab&icon_color=00ffab"/>
+      </a>
+      <br/>
+      <sub>One-line description of what it does and why it matters</sub>
+      <br/>
+      <img src="https://img.shields.io/badge/Redis-black?style=flat-square&logo=redis"/>
+      <img src="https://img.shields.io/badge/AWS-black?style=flat-square&logo=amazonaws"/>
+      <img src="https://img.shields.io/badge/Java-black?style=flat-square&logo=openjdk"/>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://github.com/4n4ndd/PROJECT-4">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=4n4ndd&repo=PROJECT-4&theme=tokyonight&hide_border=true&bg_color=0a0a0a&title_color=00ffab&icon_color=00ffab"/>
+      </a>
+      <br/>
+      <sub>One-line description of what it does and why it matters</sub>
+      <br/>
+      <img src="https://img.shields.io/badge/Flask-black?style=flat-square&logo=flask"/>
+      <img src="https://img.shields.io/badge/MongoDB-black?style=flat-square&logo=mongodb"/>
+      <img src="https://img.shields.io/badge/Docker-black?style=flat-square&logo=docker"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://github.com/4n4ndd/PROJECT-5">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=4n4ndd&repo=PROJECT-5&theme=tokyonight&hide_border=true&bg_color=0a0a0a&title_color=00ffab&icon_color=00ffab"/>
+      </a>
+      <br/>
+      <sub>One-line description of what it does and why it matters</sub>
+      <br/>
+      <img src="https://img.shields.io/badge/RabbitMQ-black?style=flat-square&logo=rabbitmq"/>
+      <img src="https://img.shields.io/badge/Spring_Boot-black?style=flat-square&logo=springboot"/>
+      <img src="https://img.shields.io/badge/MySQL-black?style=flat-square&logo=mysql"/>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://github.com/4n4ndd/PROJECT-6">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=4n4ndd&repo=PROJECT-6&theme=tokyonight&hide_border=true&bg_color=0a0a0a&title_color=00ffab&icon_color=00ffab"/>
+      </a>
+      <br/>
+      <sub>One-line description of what it does and why it matters</sub>
+      <br/>
+      <img src="https://img.shields.io/badge/React-black?style=flat-square&logo=react"/>
+      <img src="https://img.shields.io/badge/TailwindCSS-black?style=flat-square&logo=tailwindcss"/>
+      <img src="https://img.shields.io/badge/Vite-black?style=flat-square&logo=vite"/>
+    </td>
+  </tr>
+</table>
+
+</div>
 
 ## Activity
 
