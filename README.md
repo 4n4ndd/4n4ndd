@@ -7,7 +7,6 @@
 
 `Backend` · `Linux` · `System Design`
 
-<img src="https://komarev.com/ghpvc/?username=4n4ndd&label=Profile%20Views&color=00ffab&style=flat" alt="profile views"/>
 
 </div>
 
