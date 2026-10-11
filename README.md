@@ -29,6 +29,14 @@ Open to backend / full-stack roles
 **`/tech-arsenal`**
 
 <div align="center">
+**languages**
+<p>
+  <img src="https://img.shields.io/badge/Java-black?style=for-the-badge&logo=openjdk"/>
+  <img src="https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python"/>
+  <img src="https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript"/>
+  <img src="https://img.shields.io/badge/HTML-black?style=for-the-badge&logo=html5"/>
+  <img src="https://img.shields.io/badge/CSS-black?style=for-the-badge&logo=css3"/>
+</p>
 
 **backend**
 <p>
