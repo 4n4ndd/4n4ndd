@@ -30,6 +30,7 @@ Open to backend / full-stack roles
 
 <div align="center">
 languages
+  
 <p>
   <img src="https://img.shields.io/badge/Java-black?style=for-the-badge&logo=openjdk"/>
   <img src="https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python"/>
