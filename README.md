@@ -32,7 +32,6 @@ Open to backend / full-stack roles
 
 **backend**
 <p>
-  <img src="https://img.shields.io/badge/Java-black?style=for-the-badge&logo=openjdk"/>
   <img src="https://img.shields.io/badge/Spring_Boot-black?style=for-the-badge&logo=springboot"/>
   <img src="https://img.shields.io/badge/Spring-black?style=for-the-badge&logo=spring"/>
   <img src="https://img.shields.io/badge/Hibernate-black?style=for-the-badge&logo=hibernate"/>
