@@ -60,16 +60,6 @@ languages
     <td><code>tools</code></td>
     <td><img src="https://skillicons.dev/icons?i=git,github,postman,idea,vscode,figma&theme=dark" /></td>
   </tr>
-  <tr>
-    <td><code>core cs</code></td>
-    <td>
-      <img src="https://img.shields.io/badge/DSA-0d1117?style=for-the-badge&labelColor=0d1117&color=00FF9C" />
-      <img src="https://img.shields.io/badge/System_Design-0d1117?style=for-the-badge&color=00FF9C" />
-      <img src="https://img.shields.io/badge/OOP-0d1117?style=for-the-badge&color=00FF9C" />
-      <img src="https://img.shields.io/badge/DBMS-0d1117?style=for-the-badge&color=00FF9C" />
-      <img src="https://img.shields.io/badge/OS-0d1117?style=for-the-badge&color=00FF9C" />
-      <img src="https://img.shields.io/badge/Networks-0d1117?style=for-the-badge&color=00FF9C" />
-    </td>
   </tr>
 </table>
 </div>
