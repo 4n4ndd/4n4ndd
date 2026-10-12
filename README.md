@@ -29,8 +29,6 @@ Open to backend / full-stack roles
 **`/tech-arsenal`**
 
 <div align="center">
-languages
-  
 <h3 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=00FF9C&center=true&vCenter=true&width=420&lines=%2Ftech-arsenal;%24+loading+stack..." alt="tech arsenal" />
 </h3>
