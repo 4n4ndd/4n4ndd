@@ -26,86 +26,129 @@ Open to backend / full-stack roles
 
 ---
 
-**`/tech-arsenal`**
+<!-- ============ TECH ARSENAL ============ -->
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=00ffab&height=2&section=header" width="100%"/>
 
 <div align="center">
-languages
-  
-<p>
-  <img src="https://img.shields.io/badge/Java-black?style=for-the-badge&logo=openjdk"/>
-  <img src="https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python"/>
-  <img src="https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript"/>
-  <img src="https://img.shields.io/badge/HTML-black?style=for-the-badge&logo=html5"/>
-  <img src="https://img.shields.io/badge/CSS-black?style=for-the-badge&logo=css3"/>
-</p>
 
-**backend**
-<p>
-  <img src="https://img.shields.io/badge/Spring_Boot-black?style=for-the-badge&logo=springboot"/>
-  <img src="https://img.shields.io/badge/Spring-black?style=for-the-badge&logo=spring"/>
-  <img src="https://img.shields.io/badge/Hibernate-black?style=for-the-badge&logo=hibernate"/>
-  <img src="https://img.shields.io/badge/REST_APIs-black?style=for-the-badge&logo=fastapi"/>
-  <img src="https://img.shields.io/badge/GraphQL-black?style=for-the-badge&logo=graphql"/>
-  <img src="https://img.shields.io/badge/Flask-black?style=for-the-badge&logo=flask"/>
-  <img src="https://img.shields.io/badge/Microservices-black?style=for-the-badge&logo=spring"/>
-</p>
-<p>
-  <img src="https://img.shields.io/badge/Apache_Kafka-black?style=for-the-badge&logo=apachekafka"/>
-  <img src="https://img.shields.io/badge/RabbitMQ-black?style=for-the-badge&logo=rabbitmq"/>
-  <img src="https://img.shields.io/badge/Event_Driven_Arch-black?style=for-the-badge&logo=apacheairflow"/>
-</p>
-
-**frontend**
-<p>
-  <img src="https://img.shields.io/badge/React-black?style=for-the-badge&logo=react"/>
-  <img src="https://img.shields.io/badge/Redux-black?style=for-the-badge&logo=redux"/>
-  <img src="https://img.shields.io/badge/TailwindCSS-black?style=for-the-badge&logo=tailwindcss"/>
-  <img src="https://img.shields.io/badge/Bootstrap-black?style=for-the-badge&logo=bootstrap"/>
-  <img src="https://img.shields.io/badge/Vite-black?style=for-the-badge&logo=vite"/>
-</p>
-
-**databases**
-<p>
-  <img src="https://img.shields.io/badge/PostgreSQL-black?style=for-the-badge&logo=postgresql"/>
-  <img src="https://img.shields.io/badge/MongoDB-black?style=for-the-badge&logo=mongodb"/>
-  <img src="https://img.shields.io/badge/MySQL-black?style=for-the-badge&logo=mysql"/>
-  <img src="https://img.shields.io/badge/Redis-black?style=for-the-badge&logo=redis"/>
-</p>
-
-**devops & cloud**
-<p>
-  <img src="https://img.shields.io/badge/AWS-black?style=for-the-badge&logo=amazonaws"/>
-  <img src="https://img.shields.io/badge/EC2-black?style=for-the-badge&logo=amazonec2"/>
-  <img src="https://img.shields.io/badge/S3-black?style=for-the-badge&logo=amazons3"/>
-  <img src="https://img.shields.io/badge/Lambda-black?style=for-the-badge&logo=awslambda"/>
-  <img src="https://img.shields.io/badge/Docker-black?style=for-the-badge&logo=docker"/>
-  <img src="https://img.shields.io/badge/Kubernetes-black?style=for-the-badge&logo=kubernetes"/>
-  <img src="https://img.shields.io/badge/Nginx-black?style=for-the-badge&logo=nginx"/>
-  <img src="https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux"/>
-  <img src="https://img.shields.io/badge/CI/CD-black?style=for-the-badge&logo=githubactions"/>
-</p>
-
-**tools**
-<p>
-  <img src="https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git"/>
-  <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"/>
-  <img src="https://img.shields.io/badge/Postman-black?style=for-the-badge&logo=postman"/>
-  <img src="https://img.shields.io/badge/IntelliJ-black?style=for-the-badge&logo=intellijidea"/>
-  <img src="https://img.shields.io/badge/VS_Code-black?style=for-the-badge&logo=visualstudiocode"/>
-  <img src="https://img.shields.io/badge/Figma-black?style=for-the-badge&logo=figma"/>
-</p>
-
-**core cs**
-<p>
-  <img src="https://img.shields.io/badge/DSA-black?style=for-the-badge&logo=leetcode"/>
-  <img src="https://img.shields.io/badge/System_Design-black?style=for-the-badge&logo=blueprint"/>
-  <img src="https://img.shields.io/badge/OOP-black?style=for-the-badge&logo=codeigniter"/>
-  <img src="https://img.shields.io/badge/DBMS-black?style=for-the-badge&logo=oracle"/>
-  <img src="https://img.shields.io/badge/OS-black?style=for-the-badge&logo=linux"/>
-  <img src="https://img.shields.io/badge/Networks-black?style=for-the-badge&logo=cisco"/>
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=1200&color=00FFAB&center=true&vCenter=true&width=520&height=40&lines=%24+cat+%2Ftech-arsenal;%24+loading+stack...;%24+ready+to+build+%E2%96%8D" alt="tech arsenal" />
 
 </div>
+
+<div align="center">
+
+```bash
+┌──(anand@dev)-[~/tech-arsenal]
+└─$ ls -la --stack
+```
+
+</div>
+
+<table align="center">
+
+<!-- LANGUAGES -->
+<tr>
+<td align="right" width="190">
+<img src="https://img.shields.io/badge/%F0%9F%92%BB-LANGUAGES-00ffab?style=for-the-badge&labelColor=0a0a0a"/>
+</td>
+<td>
+<img src="https://skillicons.dev/icons?i=java,python,js,html,css&theme=dark" />
+</td>
+</tr>
+
+<!-- BACKEND -->
+<tr>
+<td align="right">
+<img src="https://img.shields.io/badge/%E2%9A%99%EF%B8%8F-BACKEND-00ffab?style=for-the-badge&labelColor=0a0a0a"/>
+</td>
+<td>
+<img src="https://skillicons.dev/icons?i=spring,hibernate,graphql,flask&theme=dark" /><br/>
+<img src="https://img.shields.io/badge/API-REST-00ffab?style=flat-square&labelColor=0a0a0a"/>
+<img src="https://img.shields.io/badge/ARCH-Microservices-00ffab?style=flat-square&labelColor=0a0a0a"/>
+</td>
+</tr>
+
+<!-- MESSAGING -->
+<tr>
+<td align="right">
+<img src="https://img.shields.io/badge/%F0%9F%93%A1-MESSAGING-00ffab?style=for-the-badge&labelColor=0a0a0a"/>
+</td>
+<td>
+<img src="https://skillicons.dev/icons?i=kafka,rabbitmq&theme=dark" /><br/>
+<img src="https://img.shields.io/badge/PATTERN-Event_Driven-00ffab?style=flat-square&labelColor=0a0a0a"/>
+</td>
+</tr>
+
+<!-- FRONTEND -->
+<tr>
+<td align="right">
+<img src="https://img.shields.io/badge/%F0%9F%8E%A8-FRONTEND-00ffab?style=for-the-badge&labelColor=0a0a0a"/>
+</td>
+<td>
+<img src="https://skillicons.dev/icons?i=react,redux,tailwind,bootstrap,vite&theme=dark" />
+</td>
+</tr>
+
+<!-- DATABASES -->
+<tr>
+<td align="right">
+<img src="https://img.shields.io/badge/%F0%9F%97%84%EF%B8%8F-DATABASES-00ffab?style=for-the-badge&labelColor=0a0a0a"/>
+</td>
+<td>
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis&theme=dark" />
+</td>
+</tr>
+
+<!-- DEVOPS -->
+<tr>
+<td align="right">
+<img src="https://img.shields.io/badge/%E2%98%81%EF%B8%8F-DEVOPS_%26_CLOUD-00ffab?style=for-the-badge&labelColor=0a0a0a"/>
+</td>
+<td>
+<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,nginx,linux,githubactions&theme=dark" /><br/>
+<img src="https://img.shields.io/badge/AWS-EC2-00ffab?style=flat-square&labelColor=0a0a0a"/>
+<img src="https://img.shields.io/badge/AWS-S3-00ffab?style=flat-square&labelColor=0a0a0a"/>
+<img src="https://img.shields.io/badge/AWS-Lambda-00ffab?style=flat-square&labelColor=0a0a0a"/>
+</td>
+</tr>
+
+<!-- TOOLS -->
+<tr>
+<td align="right">
+<img src="https://img.shields.io/badge/%F0%9F%9B%A0%EF%B8%8F-TOOLS-00ffab?style=for-the-badge&labelColor=0a0a0a"/>
+</td>
+<td>
+<img src="https://skillicons.dev/icons?i=git,github,postman,idea,vscode,figma&theme=dark" />
+</td>
+</tr>
+
+<!-- CORE CS -->
+<tr>
+<td align="right">
+<img src="https://img.shields.io/badge/%F0%9F%A7%A0-CORE_CS-00ffab?style=for-the-badge&labelColor=0a0a0a"/>
+</td>
+<td>
+<img src="https://img.shields.io/badge/-DSA-00ffab?style=flat-square&labelColor=0a0a0a&color=0a0a0a"/>
+<img src="https://img.shields.io/badge/-System_Design-00ffab?style=flat-square&labelColor=0a0a0a&color=0a0a0a"/>
+<img src="https://img.shields.io/badge/-OOP-00ffab?style=flat-square&labelColor=0a0a0a&color=0a0a0a"/>
+<img src="https://img.shields.io/badge/-DBMS-00ffab?style=flat-square&labelColor=0a0a0a&color=0a0a0a"/>
+<img src="https://img.shields.io/badge/-OS-00ffab?style=flat-square&labelColor=0a0a0a&color=0a0a0a"/>
+<img src="https://img.shields.io/badge/-Networks-00ffab?style=flat-square&labelColor=0a0a0a&color=0a0a0a"/>
+</td>
+</tr>
+
+</table>
+
+<div align="center">
+
+```bash
+$ echo "always learning, always shipping"
+```
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=00ffab&height=2&section=footer" width="100%"/>
 
 ---
 
