@@ -31,80 +31,47 @@ Open to backend / full-stack roles
 <div align="center">
 languages
   
-<p>
-  <img src="https://img.shields.io/badge/Java-black?style=for-the-badge&logo=openjdk"/>
-  <img src="https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python"/>
-  <img src="https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript"/>
-  <img src="https://img.shields.io/badge/HTML-black?style=for-the-badge&logo=html5"/>
-  <img src="https://img.shields.io/badge/CSS-black?style=for-the-badge&logo=css3"/>
-</p>
+<h3 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=00FF9C&center=true&vCenter=true&width=420&lines=%2Ftech-arsenal;%24+loading+stack..." alt="tech arsenal" />
+</h3>
 
-**backend**
-<p>
-  <img src="https://img.shields.io/badge/Spring_Boot-black?style=for-the-badge&logo=springboot"/>
-  <img src="https://img.shields.io/badge/Spring-black?style=for-the-badge&logo=spring"/>
-  <img src="https://img.shields.io/badge/Hibernate-black?style=for-the-badge&logo=hibernate"/>
-  <img src="https://img.shields.io/badge/REST_APIs-black?style=for-the-badge&logo=fastapi"/>
-  <img src="https://img.shields.io/badge/GraphQL-black?style=for-the-badge&logo=graphql"/>
-  <img src="https://img.shields.io/badge/Flask-black?style=for-the-badge&logo=flask"/>
-  <img src="https://img.shields.io/badge/Microservices-black?style=for-the-badge&logo=spring"/>
-</p>
-<p>
-  <img src="https://img.shields.io/badge/Apache_Kafka-black?style=for-the-badge&logo=apachekafka"/>
-  <img src="https://img.shields.io/badge/RabbitMQ-black?style=for-the-badge&logo=rabbitmq"/>
-  <img src="https://img.shields.io/badge/Event_Driven_Arch-black?style=for-the-badge&logo=apacheairflow"/>
-</p>
-
-**frontend**
-<p>
-  <img src="https://img.shields.io/badge/React-black?style=for-the-badge&logo=react"/>
-  <img src="https://img.shields.io/badge/Redux-black?style=for-the-badge&logo=redux"/>
-  <img src="https://img.shields.io/badge/TailwindCSS-black?style=for-the-badge&logo=tailwindcss"/>
-  <img src="https://img.shields.io/badge/Bootstrap-black?style=for-the-badge&logo=bootstrap"/>
-  <img src="https://img.shields.io/badge/Vite-black?style=for-the-badge&logo=vite"/>
-</p>
-
-**databases**
-<p>
-  <img src="https://img.shields.io/badge/PostgreSQL-black?style=for-the-badge&logo=postgresql"/>
-  <img src="https://img.shields.io/badge/MongoDB-black?style=for-the-badge&logo=mongodb"/>
-  <img src="https://img.shields.io/badge/MySQL-black?style=for-the-badge&logo=mysql"/>
-  <img src="https://img.shields.io/badge/Redis-black?style=for-the-badge&logo=redis"/>
-</p>
-
-**devops & cloud**
-<p>
-  <img src="https://img.shields.io/badge/AWS-black?style=for-the-badge&logo=amazonaws"/>
-  <img src="https://img.shields.io/badge/EC2-black?style=for-the-badge&logo=amazonec2"/>
-  <img src="https://img.shields.io/badge/S3-black?style=for-the-badge&logo=amazons3"/>
-  <img src="https://img.shields.io/badge/Lambda-black?style=for-the-badge&logo=awslambda"/>
-  <img src="https://img.shields.io/badge/Docker-black?style=for-the-badge&logo=docker"/>
-  <img src="https://img.shields.io/badge/Kubernetes-black?style=for-the-badge&logo=kubernetes"/>
-  <img src="https://img.shields.io/badge/Nginx-black?style=for-the-badge&logo=nginx"/>
-  <img src="https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux"/>
-  <img src="https://img.shields.io/badge/CI/CD-black?style=for-the-badge&logo=githubactions"/>
-</p>
-
-**tools**
-<p>
-  <img src="https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git"/>
-  <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"/>
-  <img src="https://img.shields.io/badge/Postman-black?style=for-the-badge&logo=postman"/>
-  <img src="https://img.shields.io/badge/IntelliJ-black?style=for-the-badge&logo=intellijidea"/>
-  <img src="https://img.shields.io/badge/VS_Code-black?style=for-the-badge&logo=visualstudiocode"/>
-  <img src="https://img.shields.io/badge/Figma-black?style=for-the-badge&logo=figma"/>
-</p>
-
-**core cs**
-<p>
-  <img src="https://img.shields.io/badge/DSA-black?style=for-the-badge&logo=leetcode"/>
-  <img src="https://img.shields.io/badge/System_Design-black?style=for-the-badge&logo=blueprint"/>
-  <img src="https://img.shields.io/badge/OOP-black?style=for-the-badge&logo=codeigniter"/>
-  <img src="https://img.shields.io/badge/DBMS-black?style=for-the-badge&logo=oracle"/>
-  <img src="https://img.shields.io/badge/OS-black?style=for-the-badge&logo=linux"/>
-  <img src="https://img.shields.io/badge/Networks-black?style=for-the-badge&logo=cisco"/>
-</p>
-
+<table align="center">
+  <tr>
+    <td><code>languages</code></td>
+    <td><img src="https://skillicons.dev/icons?i=java,py,js,html,css&theme=dark" /></td>
+  </tr>
+  <tr>
+    <td><code>backend</code></td>
+    <td><img src="https://skillicons.dev/icons?i=spring,hibernate,graphql,flask,kafka,rabbitmq&theme=dark" /></td>
+  </tr>
+  <tr>
+    <td><code>frontend</code></td>
+    <td><img src="https://skillicons.dev/icons?i=react,redux,tailwind,bootstrap,vite&theme=dark" /></td>
+  </tr>
+  <tr>
+    <td><code>databases</code></td>
+    <td><img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis&theme=dark" /></td>
+  </tr>
+  <tr>
+    <td><code>devops & cloud</code></td>
+    <td><img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,nginx,linux&theme=dark" /></td>
+  </tr>
+  <tr>
+    <td><code>tools</code></td>
+    <td><img src="https://skillicons.dev/icons?i=git,github,postman,idea,vscode,figma&theme=dark" /></td>
+  </tr>
+  <tr>
+    <td><code>core cs</code></td>
+    <td>
+      <img src="https://img.shields.io/badge/DSA-0d1117?style=for-the-badge&labelColor=0d1117&color=00FF9C" />
+      <img src="https://img.shields.io/badge/System_Design-0d1117?style=for-the-badge&color=00FF9C" />
+      <img src="https://img.shields.io/badge/OOP-0d1117?style=for-the-badge&color=00FF9C" />
+      <img src="https://img.shields.io/badge/DBMS-0d1117?style=for-the-badge&color=00FF9C" />
+      <img src="https://img.shields.io/badge/OS-0d1117?style=for-the-badge&color=00FF9C" />
+      <img src="https://img.shields.io/badge/Networks-0d1117?style=for-the-badge&color=00FF9C" />
+    </td>
+  </tr>
+</table>
 </div>
 
 ---
