@@ -74,71 +74,72 @@ languages
   <tr>
     <td align="center" width="50%">
       <a href="https://github.com/4n4ndd/Strike-Distributed-VIdeo-Processing-Streaming-Distribution-Platform">
-        <img alt="Strike" width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=4n4ndd&repo=Strike-Distributed-VIdeo-Processing-Streaming-Distribution-Platform&theme=tokyonight&bg_color=0a0a0a&title_color=00ffab&icon_color=00ffab&text_color=9da7b3&border_color=1f2a24&show_owner=false&description_lines_count=2&v=3"/>
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=4n4ndd&repo=Strike-Distributed-VIdeo-Processing-Streaming-Distribution-Platform&theme=tokyonight&hide_border=true&bg_color=0a0a0a&title_color=00ffab&icon_color=00ffab&v=2"/>
       </a>
       <br/>
-      <img alt="Spring Boot" src="https://img.shields.io/badge/Spring_Boot-0a0a0a?style=flat-square&logo=springboot&logoColor=00ffab"/>
-      <img alt="Kafka" src="https://img.shields.io/badge/Kafka-0a0a0a?style=flat-square&logo=apachekafka&logoColor=00ffab"/>
-      <img alt="Redis" src="https://img.shields.io/badge/Redis-0a0a0a?style=flat-square&logo=redis&logoColor=00ffab"/>
-      <img alt="AWS S3" src="https://img.shields.io/badge/AWS_S3-0a0a0a?style=flat-square&logo=amazons3&logoColor=00ffab"/>
-      <img alt="FFmpeg" src="https://img.shields.io/badge/FFmpeg-0a0a0a?style=flat-square&logo=ffmpeg&logoColor=00ffab"/>
+      <img src="https://img.shields.io/badge/Spring_Boot-black?style=flat-square&logo=springboot"/>
+      <img src="https://img.shields.io/badge/Kafka-black?style=flat-square&logo=apachekafka"/>
+      <img src="https://img.shields.io/badge/Redis-black?style=flat-square&logo=redis"/>
+      <img src="https://img.shields.io/badge/AWS_S3-black?style=flat-square&logo=amazons3"/>
+      <img src="https://img.shields.io/badge/FFmpeg-black?style=flat-square&logo=ffmpeg"/>
     </td>
     <td align="center" width="50%">
       <a href="https://github.com/4n4ndd/URL-SHORTENER">
-        <img alt="URL-SHORTENER" width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=4n4ndd&repo=URL-SHORTENER&theme=tokyonight&bg_color=0a0a0a&title_color=00ffab&icon_color=00ffab&text_color=9da7b3&border_color=1f2a24&show_owner=false&description_lines_count=2&v=3"/>
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=4n4ndd&repo=URL-SHORTENER&theme=tokyonight&hide_border=true&bg_color=0a0a0a&title_color=00ffab&icon_color=00ffab&v=2"/>
       </a>
       <br/>
-      <img alt="Java" src="https://img.shields.io/badge/Java-0a0a0a?style=flat-square&logo=openjdk&logoColor=00ffab"/>
-      <img alt="Spring Boot" src="https://img.shields.io/badge/Spring_Boot-0a0a0a?style=flat-square&logo=springboot&logoColor=00ffab"/>
-      <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-0a0a0a?style=flat-square&logo=mongodb&logoColor=00ffab"/>
-      <img alt="Redis" src="https://img.shields.io/badge/Redis-0a0a0a?style=flat-square&logo=redis&logoColor=00ffab"/>
+      <img src="https://img.shields.io/badge/Java-black?style=flat-square&logo=openjdk"/>
+      <img src="https://img.shields.io/badge/Spring_Boot-black?style=flat-square&logo=springboot"/>
+      <img src="https://img.shields.io/badge/MongoDB-black?style=flat-square&logo=mongodb"/>
+      <img src="https://img.shields.io/badge/Redis-black?style=flat-square&logo=redis"/>
     </td>
   </tr>
   <tr>
     <td align="center" width="50%">
       <a href="https://github.com/4n4ndd/Dino-GithubAnalyticsPlatform">
-        <img alt="Dino-GithubAnalyticsPlatform" width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=4n4ndd&repo=Dino-GithubAnalyticsPlatform&theme=tokyonight&bg_color=0a0a0a&title_color=00ffab&icon_color=00ffab&text_color=9da7b3&border_color=1f2a24&show_owner=false&description_lines_count=2&v=3"/>
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=4n4ndd&repo=Dino-GithubAnalyticsPlatform&theme=tokyonight&hide_border=true&bg_color=0a0a0a&title_color=00ffab&icon_color=00ffab&v=2"/>
       </a>
       <br/>
-      <img alt="Spring Boot" src="https://img.shields.io/badge/Spring_Boot-0a0a0a?style=flat-square&logo=springboot&logoColor=00ffab"/>
-      <img alt="WebClient" src="https://img.shields.io/badge/WebClient-0a0a0a?style=flat-square&logo=spring&logoColor=00ffab"/>
-      <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-0a0a0a?style=flat-square&logo=postgresql&logoColor=00ffab"/>
-      <img alt="Redis" src="https://img.shields.io/badge/Redis-0a0a0a?style=flat-square&logo=redis&logoColor=00ffab"/>
+      <img src="https://img.shields.io/badge/Spring_Boot-black?style=flat-square&logo=springboot"/>
+      <img src="https://img.shields.io/badge/WebClient-black?style=flat-square&logo=spring"/>
+      <img src="https://img.shields.io/badge/PostgreSQL-black?style=flat-square&logo=postgresql"/>
+      <img src="https://img.shields.io/badge/Redis-black?style=flat-square&logo=redis"/>
     </td>
     <td align="center" width="50%">
       <a href="https://github.com/4n4ndd/AbsoluteCinema">
-        <img alt="AbsoluteCinema" width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=4n4ndd&repo=AbsoluteCinema&theme=tokyonight&bg_color=0a0a0a&title_color=00ffab&icon_color=00ffab&text_color=9da7b3&border_color=1f2a24&show_owner=false&description_lines_count=2&v=3"/>
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=4n4ndd&repo=AbsoluteCinema&theme=tokyonight&hide_border=true&bg_color=0a0a0a&title_color=00ffab&icon_color=00ffab&v=2"/>
       </a>
       <br/>
-      <img alt="Spring Boot" src="https://img.shields.io/badge/Spring_Boot-0a0a0a?style=flat-square&logo=springboot&logoColor=00ffab"/>
-      <img alt="Flask" src="https://img.shields.io/badge/Flask-0a0a0a?style=flat-square&logo=flask&logoColor=00ffab"/>
-      <img alt="React" src="https://img.shields.io/badge/React-0a0a0a?style=flat-square&logo=react&logoColor=00ffab"/>
-      <img alt="Python" src="https://img.shields.io/badge/Python-0a0a0a?style=flat-square&logo=python&logoColor=00ffab"/>
+      <img src="https://img.shields.io/badge/Spring_Boot-black?style=flat-square&logo=springboot"/>
+      <img src="https://img.shields.io/badge/Flask-black?style=flat-square&logo=flask"/>
+      <img src="https://img.shields.io/badge/React-black?style=flat-square&logo=react"/>
+      <img src="https://img.shields.io/badge/Python-black?style=flat-square&logo=python"/>
     </td>
   </tr>
   <tr>
     <td align="center" width="50%">
       <a href="https://github.com/4n4ndd/WorkWave-2.O">
-        <img alt="WorkWave-2.O" width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=4n4ndd&repo=WorkWave-2.O&theme=tokyonight&bg_color=0a0a0a&title_color=00ffab&icon_color=00ffab&text_color=9da7b3&border_color=1f2a24&show_owner=false&description_lines_count=2&v=3"/>
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=4n4ndd&repo=WorkWave-2.O&theme=tokyonight&hide_border=true&bg_color=0a0a0a&title_color=00ffab&icon_color=00ffab&v=2"/>
       </a>
       <br/>
-      <img alt="React" src="https://img.shields.io/badge/React-0a0a0a?style=flat-square&logo=react&logoColor=00ffab"/>
-      <img alt="Spring Boot" src="https://img.shields.io/badge/Spring_Boot-0a0a0a?style=flat-square&logo=springboot&logoColor=00ffab"/>
-      <img alt="Spring Security" src="https://img.shields.io/badge/Spring_Security-0a0a0a?style=flat-square&logo=springsecurity&logoColor=00ffab"/>
+      <img src="https://img.shields.io/badge/React-black?style=flat-square&logo=react"/>
+      <img src="https://img.shields.io/badge/Spring_Boot-black?style=flat-square&logo=springboot"/>
+      <img src="https://img.shields.io/badge/Spring_Security-black?style=flat-square&logo=springsecurity"/>
     </td>
     <td align="center" width="50%">
       <a href="https://github.com/4n4ndd/firebaseChatApplication">
-        <img alt="firebaseChatApplication" width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=4n4ndd&repo=firebaseChatApplication&theme=tokyonight&bg_color=0a0a0a&title_color=00ffab&icon_color=00ffab&text_color=9da7b3&border_color=1f2a24&show_owner=false&description_lines_count=2&v=3"/>
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=4n4ndd&repo=firebaseChatApplication&theme=tokyonight&hide_border=true&bg_color=0a0a0a&title_color=00ffab&icon_color=00ffab&v=2"/>
       </a>
       <br/>
-      <img alt="Android" src="https://img.shields.io/badge/Android-0a0a0a?style=flat-square&logo=android&logoColor=00ffab"/>
-      <img alt="Android Studio" src="https://img.shields.io/badge/Android_Studio-0a0a0a?style=flat-square&logo=androidstudio&logoColor=00ffab"/>
-      <img alt="Firebase" src="https://img.shields.io/badge/Firebase-0a0a0a?style=flat-square&logo=firebase&logoColor=00ffab"/>
+      <img src="https://img.shields.io/badge/Android-black?style=flat-square&logo=android"/>
+      <img src="https://img.shields.io/badge/Android_Studio-black?style=flat-square&logo=androidstudio"/>
+      <img src="https://img.shields.io/badge/Firebase-black?style=flat-square&logo=firebase"/>
     </td>
   </tr>
 </table>
 
 </div>
+
 ---
 
 ## Activity
