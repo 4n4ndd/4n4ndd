@@ -3,7 +3,6 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=32&pause=2000&color=FFFFFF&center=true&vCenter=true&width=300&lines=Anand&repeat=false" alt="Typing SVG" />
 
-<p><code>code</code> • <code>build</code> • <code>design</code> • <code>scale</code></p>
 
 `Backend` · `Linux` · `System Design`
 
